@@ -152,7 +152,7 @@ bloom:
 bloom_lora:
   learning_rate: 1e-4
   weight_decay: 0.01
-  num_train_epochs: 3
+  num_train_epochs: 1
   batch_size: 4
 
 bloom_lora_int8:
